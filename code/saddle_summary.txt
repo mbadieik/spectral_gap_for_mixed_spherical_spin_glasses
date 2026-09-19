@@ -1,0 +1,37 @@
+E_inf=1.73205 E_1=1.78330 E_0=1.79409 E_2=1.77648
+
+N=8: 1770 distinct antipodal pairs over 8 samples
+  minima: 42, index-1: 162, index>=2: 1566
+  deepest minimum u = -1.8710 (band [-E_0,-E_inf] = [-1.7941,-1.7321])
+  lowest index-1 u = -1.3418 (threshold -E_1 = -1.7833)
+  discovery: new pairs in last quarter of 4000 starts, per sample: [5, 10, 2, 4, 9, 5, 8, 3]
+  beta=  0.5: largest-saddle share 0.142+-0.048, dominant u = -0.969
+  beta=  1.0: largest-saddle share 0.249+-0.080, dominant u = -1.105
+  beta=  2.0: largest-saddle share 0.569+-0.194, dominant u = -1.157
+  beta=  4.0: largest-saddle share 0.845+-0.172, dominant u = -1.162
+  beta=  8.0: largest-saddle share 0.951+-0.083, dominant u = -1.162
+  beta= 16.0: largest-saddle share 0.994+-0.012, dominant u = -1.162
+
+N=10: 4744 distinct antipodal pairs over 8 samples
+  minima: 66, index-1: 247, index>=2: 4431
+  deepest minimum u = -1.7672 (band [-E_0,-E_inf] = [-1.7941,-1.7321])
+  lowest index-1 u = -1.5869 (threshold -E_1 = -1.7833)
+  discovery: new pairs in last quarter of 4000 starts, per sample: [77, 64, 62, 75, 66, 77, 58, 71]
+  beta=  0.5: largest-saddle share 0.111+-0.026, dominant u = -1.112
+  beta=  1.0: largest-saddle share 0.213+-0.102, dominant u = -1.331
+  beta=  2.0: largest-saddle share 0.559+-0.198, dominant u = -1.353
+  beta=  4.0: largest-saddle share 0.820+-0.153, dominant u = -1.353
+  beta=  8.0: largest-saddle share 0.930+-0.123, dominant u = -1.353
+  beta= 16.0: largest-saddle share 0.963+-0.096, dominant u = -1.353
+
+N=12: 7547 distinct antipodal pairs over 8 samples
+  minima: 87, index-1: 341, index>=2: 7119
+  deepest minimum u = -1.7308 (band [-E_0,-E_inf] = [-1.7941,-1.7321])
+  lowest index-1 u = -1.5187 (threshold -E_1 = -1.7833)
+  discovery: new pairs in last quarter of 4000 starts, per sample: [166, 150, 172, 153, 176, 165, 140, 161]
+  beta=  0.5: largest-saddle share 0.109+-0.065, dominant u = -1.122
+  beta=  1.0: largest-saddle share 0.164+-0.063, dominant u = -1.330
+  beta=  2.0: largest-saddle share 0.479+-0.218, dominant u = -1.386
+  beta=  4.0: largest-saddle share 0.714+-0.228, dominant u = -1.386
+  beta=  8.0: largest-saddle share 0.863+-0.133, dominant u = -1.388
+  beta= 16.0: largest-saddle share 0.964+-0.047, dominant u = -1.388
